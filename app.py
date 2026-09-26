@@ -6,7 +6,7 @@ bom = 0
 ruim = 0
 
 # 2-Base/Comando para criar a repetição e solicitar os dados do usuário. 
-for entrevistado in range(1, 11):
+for entrevistado in range(1, 51):
     nome = input("\nDigite o nome: ")
     idade = int(input("Digite a idade: "))
 
