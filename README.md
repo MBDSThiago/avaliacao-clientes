@@ -19,9 +19,7 @@ Ao final, o programa informa a quantidade de respostas **EXCELENTE** e **RUIM**.
 ![Pesquisa](https://img.shields.io/badge/📋-Pesquisa%20de%20Satisfação-blue)
 ![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-![Python](https://img.shields.io/badge/PythonB?logo=python&logoColor=white
-![Colorama](https://img.shields.io/badge/Colorama-Colors%20for%20Terminal-2ea44
-![Colorama](https://img.shields.io/badge/Colorama-Terms-green
+
 ## ▶️ Como executar:
 
 1. Baixe este repositório.
